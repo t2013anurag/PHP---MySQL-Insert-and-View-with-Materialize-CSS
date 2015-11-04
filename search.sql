@@ -39,7 +39,7 @@ CREATE TABLE IF NOT EXISTS `search` (
 --
 
 INSERT INTO `search` (`name`, `symp`, `cure`, `info`) VALUES
-('Tuberculosis', 'ahh pain in my head', 'no cure go die please', 'ahhhhh');
+('Tuberculosis', 'some symptoms of the diesase', 'cure if any', 'other info');
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
